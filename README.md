@@ -31,5 +31,13 @@ pip install pandas matplotlib scikit-learn
     git clone https://github.com/your-username/SCT_ML_2.git
     cd SCT_ML_2
 
+2. Download the Dataset:
+   Place the Mall_Customers.csv dataset in the same directory as the Python script.
 
-3. 
+3. Run the Script:
+   Execute the Python script customer_segmentation.py:
+   python customer_segmentation.py
+This will generate an animated visualization of the K-Means clustering process.
+
+ ## Author:
+    BottomsNode
