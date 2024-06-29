@@ -28,7 +28,7 @@ pip install pandas matplotlib scikit-learn
 
 ## Running the Script:
 1. Clone the Repository:
-    git clone [https://github.com/your-username/SCT_ML_2.git](https://github.com/BottomsNode/SCT_ML_2)
+    git clone [https://github.com/BottomsNode/SCT_ML_2.git](https://github.com/BottomsNode/SCT_ML_2)
     cd SCT_ML_2
 
 2. Download the Dataset:
