@@ -40,4 +40,4 @@ pip install pandas matplotlib scikit-learn
 This will generate an animated visualization of the K-Means clustering process.
 
  ## Author:
-    BottomsNode
+[BottomsNode](https://github.com/BottomsNode)
