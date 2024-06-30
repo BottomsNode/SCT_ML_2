@@ -1,5 +1,5 @@
 # Customer Segmentation Using K-Means Clustering
-
+![Customer Segmentation Using K-Means Clustering](https://github.com/BottomsNode/SCT_ML_2/blob/main/Task%202%20%20ML.png)
 This Python script demonstrates how to perform customer segmentation using K-Means clustering based on annual income and spending score.
 
 ## Dataset
